@@ -1,11 +1,5 @@
 ## Getting.Started.
-
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
-
-## Developing.Using.Source.Files
+Clone the repo
 
 To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
 * Run `npm install` in the root directory
