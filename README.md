@@ -1,4 +1,4 @@
-## Welcome.To.Me
+## Welcome.To.Me.
 
 ## Getting.Started.
 Clone the repo:
@@ -14,6 +14,6 @@ If you need to update the plugins included with this template, simply run the fo
 
 Find a bug or issue?  Report via email: kuehlj86@gmail.com (being QA, I hope to not hear from you!)
 
-## Bootstrap.Template.Copyright.License
+## Bootstrap.Template.Copyright.License.
 
 Started with a template. Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
